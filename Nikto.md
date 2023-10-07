@@ -1,4 +1,4 @@
-1. nikto -h https://www.iiuc.ac.bd
+1. nikto -h http://www.iiuc.ac.bd
 
  ![N1](https://github.com/marufofficial670/Scanning-Methods/assets/143602093/306fa414-2faa-4a7a-b81e-08b3b598d81a)
 
